@@ -29,7 +29,7 @@ All datasets are publicly available.
 
 ### Wild Bird Abundance
 
--   **Source:** [eBird](https://ebird.org/st/request) via the R package [`ebirdst`](https://cornelllabofornithology.github.io/ebirdst/)
+-   **Source:** [eBird](https://ebird.org/st/request) via the R package [`ebirdst`](https://ebird.github.io/ebirdst/)
 -   **Description:** Provides spatial and temporal estimates of bird abundance and occurrence based on eBird data.
 -   **Access:** Data can be obtained programmatically through the eBird API.
 
