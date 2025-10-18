@@ -6,5 +6,5 @@ Output
 Input/WAHIS/grid_spillover_HPAI_USA.RDS
 Input/WAHIS/no_spillover_HPAI_USA.csv
 Input/WAHIS/spillover_HPAI_USA.csv
-Input/Data_model/data_model.csv
-Input/Data_model/graph
+Input/Data_model
+Input/Data_model
