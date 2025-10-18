@@ -3,7 +3,8 @@
 .RData
 .Ruserdata
 Output
-WAHIS/grid_spillover_HPAI_USA.RDS
-WAHIS/no_spillover_HPAI_USA.csv
-WAHIS/spillover_HPAI_USA.csv
-Data_model/
+Input/WAHIS/grid_spillover_HPAI_USA.RDS
+Input/WAHIS/no_spillover_HPAI_USA.csv
+Input/WAHIS/spillover_HPAI_USA.csv
+Input/Data_model/data_model.csv
+Input/Data_model/graph
