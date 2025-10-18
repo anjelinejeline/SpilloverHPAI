@@ -6,10 +6,14 @@ This repository contains the data and code used to perform the analyses, describ
 
 The repository is divided as follows:
 
--   Input
--   Scripts
+-   `Input`
+-   `Scripts`
 
-It assumes that the results will be saved in a folder called Output and relative subfolders. For any issues with the code please contact [Angela Fanelli](Angela.FANELLI@ec.europa.eu).
+It assumes that:
+
+-   the dataset used for modelling and the spatial adjacency matrix generated during analysis will be saved in the `Input/Data_model` folder.
+
+-   the results will be saved in a folder called `Output` and relative subfolders.
 
 ## Data Availability
 
@@ -74,14 +78,6 @@ Contains the **HPAI outbreak extraction** as of **01 July 2024** from the WAHIS 
 #### WAHIS/Species_positive_HPAI.xlsx
 
 List of **bird species (IBIRD)** for which **HPAI detections** were reported to the **WOAH** at the global level since **2005**.
-
-#### Data_model
-
-Folder designated for saving:
-
--   The **dataset used for modelling**.
-
--   The **spatial adjacency matrix** generated during analysis.
 
 ### Session info
 
