@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Output
+WAHIS/grid_spillover_HPAI_USA.RDS
+WAHIS/no_spillover_HPAI_USA.csv
+WAHIS/spillover_HPAI_USA.csv
+Data_model/
